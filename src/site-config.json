@@ -1,0 +1,460 @@
+{
+  "business": {
+    "name": "A-Tech Paving",
+    "phone": "+14054184741",
+    "category": "driveway paving",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City's Paving Experts",
+      "heroSubline": "Durable driveways built to last. Quality craftsmanship for Oklahoma homes and businesses.",
+      "aboutTitle": "Decades of Oklahoma Paving Expertise",
+      "aboutText": [
+        "A-Tech Paving started with a simple goal: to deliver reliable, long-lasting driveways to our neighbors in Oklahoma City. Founded over a decade ago, we've grown from a small crew to a dedicated team, all while staying true to our commitment to quality.",
+        "We believe in doing things right the first time. That means using the best materials, employing skilled professionals, and paying attention to every detail. We understand the challenges of Oklahoma's climate and tailor our approach to ensure your driveway stands the test of time.",
+        "Oklahoma City is our home, and we're invested in its future. We source materials locally whenever possible, support local businesses, and strive to contribute to the community through our work. We're not just paving driveways; we're building relationships."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality asphalt and concrete, designed to withstand Oklahoma's extreme weather conditions."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation, minimizing future cracking and damage."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Oklahoma City's soil conditions and climate, providing solutions tailored to the area."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive warranty, ensuring your peace of mind."
+        }
+      ],
+      "ctaHeadline": "Ready for a New Driveway?",
+      "ctaSubline": "Get a free, no-obligation quote from Oklahoma City's trusted paving professionals."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable and cost-effective asphalt driveways built to last.",
+        "description": "Asphalt driveways are a popular choice in Oklahoma City for their durability, affordability, and ease of maintenance. At A-Tech Paving, we specialize in asphalt driveway paving that can withstand the unique challenges of our local climate. From initial site preparation to the final sealcoat, we ensure every step is executed with precision and care.\n\nOur asphalt paving process begins with a thorough assessment of your property, taking into account the existing soil conditions and drainage patterns. We then prepare the base layer, ensuring a stable foundation for your new driveway. We use only high-quality asphalt mixes that are specifically formulated to resist cracking and erosion caused by Oklahoma's hot summers and icy winters.\n\nOnce the asphalt is laid and compacted, we apply a protective sealcoat to extend its lifespan and enhance its appearance. We also offer a range of customization options, including decorative borders and colored asphalt, to complement your home's aesthetic. With A-Tech Paving, you can trust that your new asphalt driveway will provide years of reliable service.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Base Layer Installation",
+          "Step 3: Asphalt Paving and Compaction",
+          "Step 4: Sealcoating and Finishing Touches"
+        ],
+        "benefits": [
+          "Cost-Effective",
+          "Durable and Long-Lasting",
+          "Easy to Maintain",
+          "Smooth and Attractive Surface"
+        ],
+        "faq": [
+          {
+            "question": "How long will an asphalt driveway last in Oklahoma City?",
+            "answer": "With proper maintenance, an asphalt driveway can last 15-20 years in Oklahoma City. Sealcoating every 3-5 years is crucial to protect it from the elements."
+          },
+          {
+            "question": "What is the best time of year to install an asphalt driveway?",
+            "answer": "The ideal time for asphalt paving is during the warmer months, typically from late spring to early fall, when temperatures are consistently above 50°F."
+          },
+          {
+            "question": "How soon can I drive on my new asphalt driveway?",
+            "answer": "We recommend waiting at least 24-48 hours before driving on your new asphalt driveway, to allow it to fully cure and harden."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Strong and elegant concrete driveways for a timeless look.",
+        "description": "Concrete driveways offer a durable and visually appealing option for homeowners in Oklahoma City. Known for their strength and longevity, concrete driveways can withstand heavy traffic and the harsh Oklahoma climate. A-Tech Paving provides expert concrete driveway paving services, ensuring a smooth and crack-resistant surface that will enhance your property's curb appeal.\n\nOur concrete paving process begins with a careful evaluation of the site, taking into account the soil type and drainage needs. We then prepare the subgrade, ensuring a solid foundation to prevent settling and cracking. We use high-quality concrete mixes that are specifically designed for driveway applications, incorporating additives to increase strength and reduce the risk of damage from freeze-thaw cycles.\n\nWe offer a variety of finishing options, including broom finishes, stamped concrete, and exposed aggregate, to create a unique look that complements your home's style. We also pay close attention to proper drainage, ensuring that water is effectively channeled away from your driveway to prevent erosion and damage. With A-Tech Paving, you can expect a concrete driveway that is both beautiful and built to last.",
+        "process": [
+          "Step 1: Site Assessment and Excavation",
+          "Step 2: Subgrade Preparation and Compaction",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Low Maintenance",
+          "Versatile Design Options",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does a concrete driveway typically last?",
+            "answer": "A properly installed and maintained concrete driveway can last 30 years or more in Oklahoma City."
+          },
+          {
+            "question": "What are the advantages of stamped concrete?",
+            "answer": "Stamped concrete offers a decorative look that mimics the appearance of brick, stone, or other materials, adding visual appeal to your driveway."
+          },
+          {
+            "question": "How often should I seal my concrete driveway?",
+            "answer": "We recommend sealing your concrete driveway every 2-3 years to protect it from stains, water damage, and the effects of freeze-thaw cycles."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair",
+        "name": "Driveway Repair",
+        "shortDescription": "Fixing cracks and damage to extend your driveway's life.",
+        "description": "Is your driveway showing signs of wear and tear? Cracks, potholes, and uneven surfaces can not only detract from your property's appearance but also pose safety hazards. A-Tech Paving offers comprehensive driveway repair services to restore your driveway to its original condition and extend its lifespan.\n\nWe begin with a thorough inspection to assess the extent of the damage and identify the underlying causes. We then develop a customized repair plan that addresses your specific needs and budget. Our repair services include crack filling, pothole patching, surface resurfacing, and complete driveway replacement, depending on the severity of the damage.\n\nWe use high-quality repair materials that are specifically formulated to bond with existing asphalt or concrete, ensuring a durable and long-lasting repair. We also pay close attention to proper drainage and grading to prevent future damage. With A-Tech Paving, you can trust that your driveway repair will be done right, the first time.",
+        "process": [
+          "Step 1: Driveway Inspection and Damage Assessment",
+          "Step 2: Crack Filling and Pothole Patching",
+          "Step 3: Surface Resurfacing (if needed)",
+          "Step 4: Sealing and Finishing"
+        ],
+        "benefits": [
+          "Improved Safety",
+          "Enhanced Curb Appeal",
+          "Extended Driveway Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs repair?",
+            "answer": "Common signs of driveway damage include cracks, potholes, uneven surfaces, and standing water."
+          },
+          {
+            "question": "Can I repair a cracked driveway myself?",
+            "answer": "While minor cracks can be filled with DIY products, larger or more extensive damage should be repaired by a professional to ensure a lasting solution."
+          },
+          {
+            "question": "How much does driveway repair cost?",
+            "answer": "The cost of driveway repair varies depending on the extent of the damage and the type of repair needed. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-sealing",
+        "name": "Driveway Sealing",
+        "shortDescription": "Protect your asphalt driveway from weather and wear.",
+        "description": "Protecting your asphalt driveway with a high-quality sealant is crucial for extending its lifespan and maintaining its appearance. A-Tech Paving offers professional driveway sealing services that shield your driveway from the damaging effects of sun, water, oil, and chemicals. Our sealing process creates a protective barrier that prevents cracking, fading, and erosion, keeping your driveway looking its best for years to come.\n\nWe begin by thoroughly cleaning your driveway to remove dirt, debris, and any existing stains. We then apply a premium-grade sealant that is specifically formulated for asphalt driveways. Our sealant penetrates deep into the asphalt, creating a flexible and durable layer that resists cracking and peeling.\n\nWe also offer a range of sealant options, including coal tar sealers and acrylic sealers, to suit your specific needs and preferences. With A-Tech Paving, you can trust that your driveway sealing will be done right, ensuring long-lasting protection and enhanced curb appeal.",
+        "process": [
+          "Step 1: Driveway Cleaning and Preparation",
+          "Step 2: Crack Filling (if needed)",
+          "Step 3: Sealant Application",
+          "Step 4: Drying and Curing"
+        ],
+        "benefits": [
+          "Extended Driveway Lifespan",
+          "Protection from Weather and Chemicals",
+          "Enhanced Curb Appeal",
+          "Prevention of Cracking and Fading"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "We recommend sealing your asphalt driveway every 3-5 years to maintain its protection and appearance."
+          },
+          {
+            "question": "What is the best time of year to seal my driveway?",
+            "answer": "The ideal time for driveway sealing is during the warmer months, when temperatures are consistently above 50°F and the asphalt is dry."
+          },
+          {
+            "question": "How long does it take for a sealant to dry?",
+            "answer": "Most sealants require 24-48 hours to fully dry and cure. Avoid driving or walking on the driveway during this time."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-replacement",
+        "name": "Driveway Replacement",
+        "shortDescription": "Complete driveway removal and new installation.",
+        "description": "When driveway repairs are no longer sufficient, a complete driveway replacement may be necessary. A-Tech Paving offers expert driveway replacement services, providing you with a brand-new driveway that is built to last. We handle every aspect of the replacement process, from removing the old driveway to installing a new one with precision and care.\n\nOur driveway replacement process begins with a thorough assessment of your property to determine the best course of action. We then remove the old driveway, taking care to minimize disruption to your landscaping and surrounding areas. We prepare the subgrade, ensuring a solid foundation for your new driveway. We use high-quality materials and proven techniques to ensure a durable and long-lasting result.\n\nWe offer a variety of driveway options, including asphalt, concrete, and paver driveways, to suit your specific needs and preferences. We also provide expert guidance to help you choose the best option for your property. With A-Tech Paving, you can trust that your driveway replacement will be done right, providing you with a beautiful and functional driveway for years to come.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Old Driveway Removal",
+          "Step 3: Subgrade Preparation",
+          "Step 4: New Driveway Installation"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Improved Curb Appeal",
+          "Enhanced Safety",
+          "Long-Lasting Performance"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to replace a driveway?",
+            "answer": "The time it takes to replace a driveway depends on the size and complexity of the project, but it typically takes 1-3 days."
+          },
+          {
+            "question": "Do I need a permit to replace my driveway?",
+            "answer": "Permit requirements vary depending on your location. We can help you determine if a permit is required and assist with the application process."
+          },
+          {
+            "question": "What is the best type of driveway for my property?",
+            "answer": "The best type of driveway for your property depends on your budget, aesthetic preferences, and the specific needs of your property. We can provide expert guidance to help you make the right choice."
+          }
+        ]
+      },
+      {
+        "slug": "paver-driveway-installation",
+        "name": "Paver Driveway Installation",
+        "shortDescription": "Add elegance and durability with paver driveways.",
+        "description": "Paver driveways offer a unique combination of beauty and durability, adding a touch of elegance to any home. A-Tech Paving specializes in paver driveway installation, using high-quality pavers and expert techniques to create stunning and long-lasting driveways. Pavers are available in a wide range of colors, shapes, and sizes, allowing for endless design possibilities.\n\nOur paver driveway installation process begins with a thorough site assessment to determine the best layout and design for your property. We then prepare the subgrade, ensuring a solid and level foundation for the pavers. We install a layer of compacted gravel and sand to provide proper drainage and prevent settling. We carefully lay each paver, ensuring a tight and uniform fit.\n\nWe offer a variety of paver options, including concrete pavers, brick pavers, and natural stone pavers, to suit your specific needs and preferences. We also provide expert guidance to help you choose the best pavers for your property. With A-Tech Paving, you can trust that your paver driveway installation will be done right, providing you with a beautiful and durable driveway that will enhance your home's curb appeal.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Excavation and Subgrade Preparation",
+          "Step 3: Base Layer Installation",
+          "Step 4: Paver Installation and Compaction"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Variety of Design Options",
+          "Durability and Longevity",
+          "Easy to Repair"
+        ],
+        "faq": [
+          {
+            "question": "Are paver driveways more expensive than asphalt or concrete?",
+            "answer": "Paver driveways are typically more expensive than asphalt or concrete driveways due to the higher cost of materials and installation."
+          },
+          {
+            "question": "How do I maintain a paver driveway?",
+            "answer": "Paver driveways require minimal maintenance. Regular sweeping and occasional cleaning with a mild detergent are typically sufficient."
+          },
+          {
+            "question": "Can I repair a paver driveway if a paver is damaged?",
+            "answer": "Yes, paver driveways are easy to repair. Damaged pavers can be easily removed and replaced without affecting the surrounding pavers."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Proudly serving Oklahoma City and surrounding communities.",
+        "localContext": "Local driveway paving services.",
+        "nearbyAreas": []
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "A-Tech Paving did an outstanding job on our new asphalt driveway. The crew was professional, efficient, and the driveway looks fantastic. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "We had some significant cracks in our concrete driveway, and A-Tech Paving was able to repair them quickly and effectively. The price was fair, and the work was well done.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Sealing",
+        "text": "A-Tech Paving sealed our asphalt driveway, and we've already noticed a difference. The driveway looks much better, and we're confident it will be protected from the elements. Great service!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Concrete Driveway Paving",
+        "text": "From start to finish, A-Tech Paving was a pleasure to work with. They installed a beautiful concrete driveway that has completely transformed the look of our home. I would recommend them to anyone.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Paver Driveway Installation",
+        "text": "We chose A-Tech Paving to install a paver driveway, and we couldn't be happier with the results. The pavers are beautiful, and the installation was flawless. There was a small delay due to weather, but they communicated well throughout the process.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Driveway Replacement",
+        "text": "Our old driveway was falling apart, so we decided to replace it. A-Tech Paving was the perfect choice. They removed the old driveway quickly and efficiently and installed a new asphalt driveway that looks great. Very professional and reliable!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A-Tech Paving | Oklahoma City Driveway Experts",
+        "description": "Oklahoma City's trusted driveway paving contractor. Asphalt, concrete, pavers. Free quotes. Durable, long-lasting driveways."
+      },
+      "about": {
+        "title": "About A-Tech Paving | Oklahoma City OK",
+        "description": "Learn about A-Tech Paving's commitment to quality and service in Oklahoma City. Decades of experience, local expertise."
+      },
+      "services": {
+        "title": "Driveway Paving Services | A-Tech Paving OKC",
+        "description": "Asphalt, concrete, paver driveway services in Oklahoma City. Repair, sealing, replacement. Expert craftsmanship, free estimates."
+      },
+      "contact": {
+        "title": "Contact A-Tech Paving | Oklahoma City OK",
+        "description": "Contact A-Tech Paving for a free driveway paving quote in Oklahoma City. Call us today!"
+      },
+      "reviews": {
+        "title": "A-Tech Paving Reviews | Oklahoma City Driveways",
+        "description": "Read reviews from satisfied A-Tech Paving customers in Oklahoma City. Quality driveway paving and repair services."
+      },
+      "service-areas": {
+        "title": "A-Tech Paving Service Areas | Oklahoma City OK",
+        "description": "A-Tech Paving provides driveway paving services throughout Oklahoma City and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "driveway-repair": "/images/service-driveway-repair.webp",
+      "driveway-sealing": "/images/service-driveway-sealing.webp",
+      "driveway-replacement": "/images/service-driveway-replacement.webp",
+      "paver-driveway-installation": "/images/service-paver-driveway-installation.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair": {
+        "src": "/images/service-driveway-repair.webp",
+        "srcset": "/images/service-driveway-repair-400w.webp 400w, /images/service-driveway-repair-800w.webp 800w, /images/service-driveway-repair-1200w.webp 1200w, /images/service-driveway-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-sealing": {
+        "src": "/images/service-driveway-sealing.webp",
+        "srcset": "/images/service-driveway-sealing-400w.webp 400w, /images/service-driveway-sealing-800w.webp 800w, /images/service-driveway-sealing-1200w.webp 1200w, /images/service-driveway-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-replacement": {
+        "src": "/images/service-driveway-replacement.webp",
+        "srcset": "/images/service-driveway-replacement-400w.webp 400w, /images/service-driveway-replacement-800w.webp 800w, /images/service-driveway-replacement-1200w.webp 1200w, /images/service-driveway-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-driveway-installation": {
+        "src": "/images/service-paver-driveway-installation.webp",
+        "srcset": "/images/service-paver-driveway-installation-400w.webp 400w, /images/service-paver-driveway-installation-800w.webp 800w, /images/service-paver-driveway-installation-1200w.webp 1200w, /images/service-paver-driveway-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
